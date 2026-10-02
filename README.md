@@ -1,8 +1,8 @@
-# Hi, I'm 雷金霖 👋
+# Hi, I'm 雷金霖 
 
  **I build LLM Agents that actually finish tasks — not just chat.**
 
-CS undergrad · AI Agent / RAG / Applied LLM engineering
+AI Agent / RAG / Applied LLM engineering
 
 ---
 
