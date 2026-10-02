@@ -38,11 +38,3 @@ CS undergrad · AI Agent / RAG / Applied LLM engineering
 
 - Email:2071934928@qq.com
 
----
-
-<!--
-要点说明（自用，上传前可删）：
-1. 仓库名必须与你的 GitHub 用户名完全一致，README 才会显示在个人主页。
-2. 表格里的链接替换成真实仓库地址；仓库 Push 后在 Profile 页 Customize your pins 置顶这 4 个。
-3. 三个 JD 都在强调“文档整理/写作”，所以这里特意加了 Writing 区块。
--->
